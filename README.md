@@ -1,2 +1,2 @@
-# project-gtihub
+# project-github
 Aulas de Gitbub
