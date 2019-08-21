@@ -1,9 +1,1 @@
-Este é o meu novo arquivo no GitHub
-
-
-
-
-
-
-
-Fiz algumas alterações aqui
+﻿Alterei o arquivo 2
